@@ -7,11 +7,11 @@
 
 <p align="center"> <a href="https://twitter.com/darshh_" target="blank"><img src="https://img.shields.io/twitter/follow/darshh_?logo=twitter&style=for-the-badge" alt="darshh_" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+                                                      - 🌱 I’m currently learning **Reactjs**
 
-- 📫 How to reach me **123greatdarshan@gmail.com**
+                                                      - 📫 How to reach me **123greatdarshan@gmail.com**
 
-- ⚡ Fun fact **I usually do sketching when I am angry on myself**
+                                                      - ⚡ Fun fact **I usually do sketching when I am angry on myself**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
