@@ -15,7 +15,7 @@
 
 
 
-<p align = "right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan4903&show_icons=true&locale=en&layout=compact" alt="darshan4903" /></p>
+<p align = "right" background-color = "black"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan4903&show_icons=true&locale=en&layout=compact" alt="darshan4903" /></p>
 
 <p align = "left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshan4903&show_icons=true&locale=en" alt="darshan4903" /></p>
 
